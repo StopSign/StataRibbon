@@ -1,0 +1,13 @@
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\bin\Debug\StataRibbon.dll
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\bin\Debug\StataRibbon.pdb
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\bin\Debug\StataRibbon.dll.manifest
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\bin\Debug\StataRibbon.vsto
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.csproj.AssemblyReference.cache
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.Properties.Resources.resources
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.Ribbon1.resources
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.csproj.GenerateResource.cache
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.csproj.CoreCompileInputs.cache
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.csproj.CopyComplete
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.dll
+C:\Users\Jim\source\repos\StataRibbon\StataRibbon\obj\Debug\StataRibbon.pdb
