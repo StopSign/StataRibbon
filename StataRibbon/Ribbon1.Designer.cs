@@ -48,6 +48,7 @@
             this.group3 = this.Factory.CreateRibbonGroup();
             this.label1 = this.Factory.CreateRibbonLabel();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
+            this.button1 = this.Factory.CreateRibbonButton();
             this.tab1.SuspendLayout();
             this.group1.SuspendLayout();
             this.group2.SuspendLayout();
@@ -68,6 +69,7 @@
             this.group1.Items.Add(this.editBox2);
             this.group1.Items.Add(this.makeDoFile);
             this.group1.Items.Add(this.browseButton);
+            this.group1.Items.Add(this.button1);
             this.group1.Items.Add(this.separator1);
             this.group1.Items.Add(this.editConfiguration);
             this.group1.Label = "Do File";
@@ -140,6 +142,12 @@
             this.label1.Label = "Errors: ";
             this.label1.Name = "label1";
             // 
+            // button1
+            // 
+            this.button1.Label = "Make GLD.do File";
+            this.button1.Name = "button1";
+            this.button1.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.makeGLDFile);
+            // 
             // Ribbon1
             // 
             this.Name = "Ribbon1";
@@ -174,6 +182,7 @@
         internal Microsoft.Office.Tools.Ribbon.RibbonGroup group3;
         protected internal Microsoft.Office.Tools.Ribbon.RibbonEditBox editBox1;
         internal Microsoft.Office.Tools.Ribbon.RibbonLabel label1;
+        internal Microsoft.Office.Tools.Ribbon.RibbonButton button1;
     }
 
     partial class ThisRibbonCollection
